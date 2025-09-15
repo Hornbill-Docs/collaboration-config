@@ -1,0 +1,10 @@
+{
+  "docId": "collaboration-config",
+  "pdfGeneration": {
+    "enable": true,
+    "exclude_paths": []
+  },
+  "validation": {
+    "exclude_links": []
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "collaboration-config",
+  "version": "0.0.0",
+  "description": "",
+  "main": "hdocbook.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
