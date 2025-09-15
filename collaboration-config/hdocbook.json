@@ -4,7 +4,7 @@
   "description": "Configuration and administration guide for the Hornbill Collaboration app",
   "publicSource": "https://github.com/Hornbill-Docs/collaboration-config",
   "productFamily": "hdocs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "audience": [
     "public"
   ],
@@ -24,6 +24,15 @@
           {
             "text": "Installing Collaboration",
             "link": "collaboration-config/getting-started/installing-collaboration"
+          }
+        ]
+      },
+      {
+        "text": "Employee Portal",
+        "items": [
+          {
+            "text": "Collaboration widgets",
+            "link": "collaboration-config/employee-portal/widgets"
           }
         ]
       }
