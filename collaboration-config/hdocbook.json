@@ -4,7 +4,7 @@
   "description": "Configuration and administration guide for the Hornbill Collaboration app",
   "publicSource": "https://github.com/Hornbill-Docs/collaboration-config",
   "productFamily": "hdocs",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "audience": [
     "public"
   ],
@@ -33,6 +33,15 @@
           {
             "text": "Roles",
             "link": "collaboration-config/setup/roles"
+          }
+        ]
+      },
+      {
+        "text": "Localization",
+        "items": [
+          {
+            "text": "UI Translations",
+            "link": "collaboration-config/localization/ui-translations"
           }
         ]
       },
