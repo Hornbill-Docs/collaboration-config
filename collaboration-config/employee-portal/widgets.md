@@ -1,4 +1,4 @@
-# Collaboration Widgets
+# Collaboration widgets
 Widgets are small, stand-alone applets that can be embedded into the Employee Portal pages to add interactivity and additional features. Widgets enhance the usability and provide quick access to information.
 
 The **Collaboration** widgets are provided with the Collaboration app. Each installed application can provide additional widgets. For more information on these widgets, see the application-specific documentation.
