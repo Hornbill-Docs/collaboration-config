@@ -9,4 +9,4 @@ As with other Hornbill apps, you install Collaboration from the Hornbill App Sto
 1. Open Configuration using the cog at the bottom of the left-hand menu bar (or with CTRL+SHIFT+S on your keyboard).
 1. Click the down arrow next to My Personal Settings, then select Hornbill Solution Center.
 1. In Hornbill App Store, from the selection of apps, click Collaboration.
-Click Install.
+1. Click **Install**.

@@ -4,5 +4,5 @@ Collaboration roles are collections of rights that provide access to different f
 
 |Role|Description|Assigned Rights|
 |-|-|-|
-|Achievements Administrator|This role will allow you to manage acheivements|canManageAchievements|
+|Achievements Administrator|This role will allow you to manage achievements|canManageAchievements|
 |Collaboration User|This role provides all standard collaboration functionality including Workspaces and Conversations|canUseBuzz<br>canUseConversations<br>canUseWorkspaces|
