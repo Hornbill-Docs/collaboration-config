@@ -18,7 +18,7 @@ This widget can only be added to pages where the visibility has been set to [Ful
 :::
 
 #### Configure
-* **Show News Feed.** This option lets you show the users news feed. When not selected, you can select an individual workspace to show instead.
+* **Show News Feed.** This option lets you show the user's news feed. When not selected, you can select an individual workspace to show instead.
 
 #### Style
 * **Use Content Height.**
