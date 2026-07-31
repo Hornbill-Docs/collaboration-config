@@ -4,7 +4,7 @@
   "description": "Configuration and administration guide for the Hornbill Collaboration app",
   "publicSource": "https://github.com/Hornbill-Docs/collaboration-config",
   "productFamily": "hdocs",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "audience": [
     "public"
   ],
@@ -15,7 +15,7 @@
     "items": [
       {
         "text": "Overview",
-        "link":"collaboration-config/index"
+        "link": "collaboration-config/index"
       },
       {
         "text": "Getting started",
